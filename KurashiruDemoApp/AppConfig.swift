@@ -10,7 +10,6 @@ import Foundation
 
 enum BuildType {
     case debug
-    case adhoc
     case release
 }
 

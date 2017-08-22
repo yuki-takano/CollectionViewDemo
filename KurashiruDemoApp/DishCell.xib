@@ -22,7 +22,7 @@
                     </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="characterWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fgY-WU-BPM">
                         <rect key="frame" x="8" y="147" width="184" height="45"/>
-                        <color key="backgroundColor" red="0.94048863649368286" green="0.90308679021310201" blue="0.74035542880139127" alpha="0.34845890410958902" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.93344417385004508" green="0.94048863649368286" blue="0.10244641559251791" alpha="0.34845890410958902" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstAttribute="height" constant="45" id="hll-Kh-zN1"/>
                         </constraints>
