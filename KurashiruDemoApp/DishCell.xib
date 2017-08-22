@@ -30,7 +30,7 @@
                             <fragment content="スピードメニュー！大葉が香るもやしとちりめんじゃこの梅肉和え">
                                 <attributes>
                                     <color key="NSColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                                    <font key="NSFont" size="13" name="HiraginoSans-W4"/>
+                                    <font key="NSFont" size="13" name="HiraginoSans-W6"/>
                                     <real key="NSKern" value="0.0"/>
                                     <paragraphStyle key="NSParagraphStyle" alignment="natural" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" minimumLineHeight="14" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                         <tabStops/>
